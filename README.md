@@ -19,4 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Resultado
 
+![image](https://github.com/MorenoIA128/UII-A8-CardAndTable/assets/143743685/3f3d0cd3-0867-4283-ac5e-89465e526117)
+
 
